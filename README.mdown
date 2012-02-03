@@ -1,0 +1,6 @@
+VB.NET oAuth Client
+==================
+
+A native VB.NET oAuth client. 
+
+Contains functional parameter sorting fix which the original library by [Nicolas Tarzia](http://www.nicolastarzia.com/) was missing.
